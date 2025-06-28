@@ -43,9 +43,19 @@ I'm fluent in English and Portuguese, and have basic knowledge of Spanish and a 
 <h2 align="center">GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakandev&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://github.com/rodigovieira">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodigovieira&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B"/>
+      <img alt="GitHub stats light theme" src="https://github-readme-stats.vercel.app/api?username=rodigovieira&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B" />
+    </picture>
+  </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakandev&theme=radical&hide_border=true" />
+  <a href="https://github.com/rodigovieira">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodigovieira&layout=compact&theme=dark&hide_border=true"/>
+      <img alt="Top langs light theme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodigovieira&layout=compact&theme=dark&hide_border=true" />
+    </picture>
+  </a>
 </p>
 
 ---
