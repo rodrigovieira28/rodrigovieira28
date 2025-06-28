@@ -37,9 +37,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-- Game Developer working with LuaU
-- Fullstack Web Developer
-- English, Spanish and Portuguese (pt-br)
+I'm a 16-year-old Software Engineering student with a focus on both game and web development.
+I work on full-stack web projects, including frontend, backend, and database integration.
+In game development, I specialize in backend systems using LuaU, with solid knowledge of game mechanics and scripting.
+I also have experience in 3D modeling using Blender and UI/UX design for web interfaces.
+I'm fluent in English and Portuguese, and have basic knowledge of Spanish and a few other languages.
 </p>
 
 ---
