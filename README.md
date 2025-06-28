@@ -45,8 +45,8 @@ I'm fluent in English and Portuguese, and have basic knowledge of Spanish and a 
 <p align="center">
   <a href="https://github.com/rodrigovieira28">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodigovieira&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B"/>
-      <img alt="GitHub stats light theme" src="https://github-readme-stats.vercel.app/api?username=rodigovieira&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodrigovieira28&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B"/>
+      <img alt="GitHub stats light theme" src="https://github-readme-stats.vercel.app/api?username=rodrigovieira28&show_icons=true&theme=dark&rank_icon=github&custom_title=Rodrigo%20Vieira&hide_border=true&rank=A%2B" />
     </picture>
   </a>
   <br/>
