@@ -1,59 +1,76 @@
-<!-- Banner animado com partículas -->
+<!-- animação de texto -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hey!+Eu+sou+o+Rakan!;Desenvolvedor+Web+e+Game+Dev+em+LuaU;Apaixonado+por+Código+e+Design!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=eu+sou+rakan;desenvolvedor+web+e+game+dev+em+luau;focado+em+design+e+funcionalidade" alt="typing intro" />
 </p>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" />
-</div>
+<!-- animação minimalista (ondas) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.svg" width="400px"/>
+</p>
 
 ---
 
-## Knowledge
+<h2 align="center">Conhecimento</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sqlite,lua&perline=7" />
-</div>
+</p>
 
 ---
 
-## Tools
+<h2 align="center">Ferramentas</h2>
 
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geany-F1C232?style=flat&logo=geany&logoColor=black" />
+  <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">Sobre mim</h2>
 
-<div align="center">
+<p align="center">
+  desenvolvedor com foco em estética e lógica<br>
+  atua com web, front-end e jogos<br>
+  experiência com interfaces, scripting e automações<br>
+  português, inglês e espanhol
+</p>
+
+---
+
+<h2 align="center">GitHub</h2>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakandev&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rakandev&theme=radical&hide_border=true" />
-</div>
+</p>
 
 ---
 
-## About me
-
-- Criativity in UI/UX
-- Game Developer working with LuaU
-- Fullstack Web Developer
-- English, Spanish and Portuguese (pt-br)
-
----
-
-## Contact
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="https://discord.com/users/475742032493543429" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rockingninejeans/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rodrigovieirasalvado1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
 </p>
