@@ -1,6 +1,6 @@
 <!-- typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=I'm+Rakan;Web+Developer+and+Game+Dev+with+LuaU;Focused+on+Design+and+Functionality" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B3EBF2&center=true&vCenter=true&width=435&lines=Rodrigo+Vieira;" alt="typing intro" />
 </p>
 
 <!-- minimal animation -->
