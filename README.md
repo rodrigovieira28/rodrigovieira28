@@ -58,18 +58,3 @@
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🌀 Background animado (gimmick visual)
-
-> ⚠️ O GitHub não suporta JavaScript, mas você pode colocar um **link para um portfolio com partículas animadas**. Exemplo:
-
-🔗 Veja meu site com partículas animadas: [rakandev.dev](https://rakandev.dev) *(exemplo)*
-
----
-
-## 🎵 Música que me representa no momento
-
-```text
-🎧 atual vibe: unixzo - "abismo"
