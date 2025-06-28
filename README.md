@@ -1,16 +1,16 @@
-<!-- animação de texto -->
+<!-- typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=eu+sou+rakan;desenvolvedor+web+e+game+dev+em+luau;focado+em+design+e+funcionalidade" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=I'm+Rakan;Web+Developer+and+Game+Dev+with+LuaU;Focused+on+Design+and+Functionality" alt="typing intro" />
 </p>
 
-<!-- animação minimalista (ondas) -->
+<!-- minimal animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.svg" width="400px"/>
 </p>
 
 ---
 
-<h2 align="center">Conhecimento</h2>
+<h2 align="center">Knowledge</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sqlite,lua&perline=7" />
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="center">Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -34,13 +34,13 @@
 
 ---
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  desenvolvedor com foco em estética e lógica<br>
-  atua com web, front-end e jogos<br>
-  experiência com interfaces, scripting e automações<br>
-  português, inglês e espanhol
+  Developer focused on logic and design<br>
+  Experienced with front-end, scripting and interface building<br>
+  Works with web apps and games<br>
+  Fluent in Portuguese, English and Spanish
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="center">Contato</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://discord.com/users/475742032493543429" target="_blank">
