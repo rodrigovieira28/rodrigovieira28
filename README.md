@@ -7,7 +7,7 @@
 <center><h2 align="center">Knowledge</h2></center>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sqlite,lua&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sql,lua&perline=7" />
 </p>
 
 ---
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PgAdmin%204-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/brModelo-005F9E?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMDBlMmZmIiByeD0iMiIvPjwvc3ZnPg==" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
