@@ -7,7 +7,7 @@
 <center><h2 align="center">Knowledge</h2></center>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sql,lua&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,lua&perline=7" />
 </p>
 
 ---
