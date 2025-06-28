@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/NCDZ.gif" width="300px" alt="minimal particles gif" />
+  <img src="https://media.gifer.com/4pQ8.gif" width="300px" alt="minimal wave animation" />
 </p>
+
 
 
 ---
