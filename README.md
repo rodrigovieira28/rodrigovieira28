@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PgAdmin%204-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/brModelo-005F9E?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMDBlMmZmIiByeD0iMiIvPjwvc3ZnPg==" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Geany-F1C232?style=flat&logo=geany&logoColor=black" />
   <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white" />
@@ -25,6 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
+
 
 ---
 
