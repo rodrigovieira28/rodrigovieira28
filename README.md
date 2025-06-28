@@ -1,6 +1,6 @@
 <!-- animação de texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=yo%2C+eu+sou+o+rakan.;crio+coisas+com+c%C3%B3digo.;fa%C3%A7o+web+e+games.;vibe+underground+br.+" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F24949&center=true&vCenter=true&width=435&lines=Sup!%2C+im+Rodrigo+Vieira+.;Fullstack+developer.;fa%C3%A7o+web+e+games.;vibe+underground+br.+" alt="typing intro" />
 </p>
 
 <!-- imagem minimalista -->
