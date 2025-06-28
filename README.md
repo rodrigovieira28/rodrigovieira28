@@ -53,7 +53,7 @@ I'm fluent in English and Portuguese, and have basic knowledge of Spanish and a 
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/475742032493543429" target="_blank">
+  <a href="https://discord.com/users/1275074851094401067" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rockingninejeans/" target="_blank">
