@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B3EBF2&center=true&vCenter=true&width=435&lines=Rodrigo+Vieira;" alt="typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://media.gifer.com/4pQ8.gif" width="300px" alt="minimal wave animation" />
-</p>
-
-
-
 ---
 
 <center><h2 align="center">Knowledge</h2></center>
