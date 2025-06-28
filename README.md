@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">Knowledge</h2>
+<center><h2 align="center">Knowledge</h2></center>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,sqlite,lua&perline=7" />
@@ -37,10 +37,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Developer focused on logic and design<br>
-  Experienced with front-end, scripting and interface building<br>
-  Works with web apps and games<br>
-  Fluent in Portuguese, English and Spanish
+- Game Developer working with LuaU
+- Fullstack Web Developer
+- English, Spanish and Portuguese (pt-br)
 </p>
 
 ---
