@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/S9bVt2FJ1TQAAAAC/blue-wave.gif" width="300px" alt="clean minimal gif" />
+  <img src="https://i.gifer.com/embedded/download/NCDZ.gif" width="300px" alt="minimal particles gif" />
 </p>
+
 
 ---
 
